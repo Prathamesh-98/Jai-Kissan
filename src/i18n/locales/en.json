@@ -1,0 +1,87 @@
+{
+  "common": {
+    "language": "Language",
+    "english": "English",
+    "hindi": "हिंदी",
+    "marathi": "मराठी"
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "marketPrices": "Market Prices",
+    "schemes": "Government Schemes",
+    "cropCalendar": "Crop Calendar",
+    "login": "Login",
+    "register": "Register"
+  },
+  "auth": {
+    "farmerLogin": "Farmer Login",
+    "brokerLogin": "Broker Login",
+    "farmerRegister": "Farmer Register",
+    "brokerRegister": "Broker Register",
+    "email": "Email",
+    "password": "Password",
+    "phone": "Phone",
+    "name": "Name",
+    "location": "Location"
+  },
+  "dashboard": {
+    "greeting": "Good {{timeOfDay}}",
+    "weather": "Weather",
+    "humidity": "Humidity",
+    "windSpeed": "Wind Speed",
+    "temperature": "Temperature",
+    "cropPrices": "Crop Prices",
+    "marketNews": "Market News",
+    "todayWeather": "Today's Weather",
+    "upcomingActivity": "Upcoming Activity",
+    "sellCrop": "Sell Crop",
+    "lightBreeze": "Light Breeze",
+    "moderate": "Moderate"
+  },
+  "cropCalendar": {
+    "title": "Crop Calendar",
+    "selectCrop": "Select Crop",
+    "selectVariety": "Select Variety",
+    "selectSoil": "Select Soil Type",
+    "plantingDate": "Planting Date",
+    "generateSchedule": "Generate Schedule",
+    "schedule": "Crop Schedule",
+    "stages": {
+      "landPrep": "Land Preparation",
+      "sowing": "Sowing",
+      "growth": "Growth",
+      "harvest": "Harvest"
+    },
+    "tasks": {
+      "irrigation": "Irrigation",
+      "fertilization": "Fertilization",
+      "pesticide": "Pesticide",
+      "general": "General"
+    }
+  },
+  "schemes": {
+    "title": "Government Schemes",
+    "description": "Government schemes and support programs for farmers",
+    "benefits": "Benefits",
+    "eligibility": "Eligibility",
+    "deadline": "Deadline",
+    "applyNow": "Apply Now"
+  },
+  "marketPrices": {
+    "title": "Market Prices",
+    "searchPlaceholder": "Search crops or locations",
+    "price": "Price",
+    "change": "Change",
+    "location": "Location",
+    "lastUpdated": "Last Updated"
+  },
+  "weather": {
+    "forecast": "Weather Forecast",
+    "humidity": "Humidity",
+    "windSpeed": "Wind Speed",
+    "temperature": "Temperature",
+    "condition": "Condition",
+    "precipitation": "Precipitation Chance"
+  }
+}
